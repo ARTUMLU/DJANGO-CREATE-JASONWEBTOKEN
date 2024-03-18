@@ -29,3 +29,22 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 
 License
 This project is licensed under the MIT License.
+
+# My Project
+
+## Introduction
+
+### Purpose of JWT
+
+#### How JWT Works
+
+## Getting Started
+
+### Installation
+
+### Usage
+
+## Contributing
+
+## License
+
