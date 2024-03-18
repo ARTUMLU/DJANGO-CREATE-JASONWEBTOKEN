@@ -24,10 +24,11 @@ Secure: JWTs can be digitally signed to ensure data integrity and authenticity. 
 ## Getting Started
 
 To use JWT authentication in your Django project, you can install the djangorestframework_simplejwt package. Detailed installation and usage instructions can be found in the official documentation: 
+
+
 ```bash
 pip install djangorestframework-simplejwt
-```
-###
+``` 
 
 
 <img width="1438" alt="Ekran Resmi 2024-03-18 03 43 42" src="https://github.com/ARTUMLU/DJANGO-CREATE-JASONWEBTOKEN/assets/86891887/eaf2fd6a-1db5-4360-aa05-053698a6b69d">
